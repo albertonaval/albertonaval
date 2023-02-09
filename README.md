@@ -8,7 +8,7 @@
 
 - ✔️ I've just finished a Web Dev Bootcamp on Ironhack  
 - 🌱 I’m currently learning TypeScript and Next JS
-- 💞️ I’m looking to collaborate on open source project
+- 💞️ I’m looking to collaborate on open source projects
 - 🎙️ I speak Spanish and English
 - 📫 How to reach me albertonaval.dev@gmail.com
 - 📍Let's connect on https://www.linkedin.com/in/alberto-naval/
